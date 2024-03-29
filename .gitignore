@@ -9,6 +9,9 @@ build/
 env
 /staticfiles/
 
+.venv
+venv/
+
 #src
 #*.sqlite*
 
