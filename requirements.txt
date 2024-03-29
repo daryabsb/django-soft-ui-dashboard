@@ -1,14 +1,17 @@
-# Core
-django
-python-dotenv==1.0.1
-str2bool==1.1
-
-# UI 
+asgiref==3.8.1
+Django==5.0.3
 django-admin-soft-dashboard==1.0.12
-
-# Deployment
-whitenoise==6.6.0
+django-extensions==3.2.3
+django-isbn-field==0.5.3
 gunicorn==21.2.0
-
-# psycopg2-binary
-# mysqlclient
+MarkupSafe==2.1.5
+packaging==24.0
+pillow==10.2.0
+python-dotenv==1.0.1
+python-stdnum==1.20
+six==1.16.0
+sqlparse==0.4.4
+str2bool==1.1
+tzdata==2024.1
+Werkzeug==3.0.1
+whitenoise==6.6.0
